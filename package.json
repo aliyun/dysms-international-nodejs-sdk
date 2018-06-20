@@ -1,12 +1,12 @@
 {
   "name": "@alicloud/international-sms-sdk",
   "version": "1.0.0",
-  "description": "阿里云-云通信-短信产品SDK",
+  "description": "international-sms-sdk",
   "keywords": [
     "SDK",
-    "云通信",
-    "阿里云",
-    "短信",
+    "aliyun",
+    "alicom",
+    "sms",
     "Node.js"
   ],
   "main": "index.js",
