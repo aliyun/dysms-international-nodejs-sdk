@@ -17,7 +17,7 @@
  * Created on 2018-06-20
  */
 
-const SMSClient = require('@alicloud/sms-sdk')
+const SMSClient = require('@alicloud/international-sms-sdk')
 
 // AccessKey and AccessKeySecret , you can login sms console and find it in API Management
 const accessKeyId = 'yourAccessKeyId'
