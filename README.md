@@ -7,7 +7,7 @@
 ### Quick Start
 1. please install @alicloud/international-sms-sdk,please read help documents for more parameters instructions
 2. product doc: https://sms-intl.console.aliyun.com/
-3. Node.js version >= v4.6.0
+3. Node.js version >= v7.6.0
 
 ### Usage
 
